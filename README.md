@@ -6,7 +6,7 @@
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence
--  
+  
 ## About Me
 
 I am an accomplished Artificial Intelligence Engineer, holding a distinguished Bachelor's Degree in Computer Science from the University of Salerno, Italy, and an advanced Master's Degree from the University of Milano Bicocca. My expertise lies in the intricate realms of Deep Learning and Machine Learning
