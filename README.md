@@ -13,7 +13,7 @@ I am an accomplished Artificial Intelligence Engineer, holding a distinguished B
 
 ## Technical Arsenal
 
-- **Languages:** Python
+- **Languages:** Python, R
 - **Frameworks:** PyTorch, TensorFlow, Keras
 - **Skills:** Deep Learning, Machine Learning
 
