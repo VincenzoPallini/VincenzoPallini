@@ -26,4 +26,4 @@ Let's connect! I'm open to discussing partnerships and opportunities, particular
 
 - **Email:** [pallini.vincenzo@gmail.com](mailto:pallini.vincenzo@gmail.com)
 - **LinkedIn:** [Vincenzo Pallini](https://www.linkedin.com/in/vincenzo-pallini-33626110b/)
-- **GitHub:** [VincenzoPallini](https://github.com/VincenzoPallini)
+
